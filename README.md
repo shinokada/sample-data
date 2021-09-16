@@ -1,5 +1,4 @@
 # sample-csv
 
-## Overview
+Sample csv files are from https://github.com/codeforamerica/ohana-api
 
-Sample csv files from https://github.com/codeforamerica/ohana-api
