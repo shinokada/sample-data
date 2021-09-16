@@ -1,4 +1,4 @@
 # sample-csv
 
-Sample csv files are from https://github.com/codeforamerica/ohana-api
-
+- Sample csv files are from https://github.com/codeforamerica/ohana-api
+- Open source lincenses
